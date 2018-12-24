@@ -9,6 +9,6 @@
 <img src="${pageContext.request.contextPath}/assets/images/spring-logo.png" style="width: 300px">
 <br>
 <hr>
-<a href="show-form">Hello World Form</a>
+<a href="hello/show-form">Hello World Form</a>
 </body>
 </html>
