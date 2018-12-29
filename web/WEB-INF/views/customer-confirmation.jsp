@@ -5,5 +5,9 @@
 </head>
 <body>
 The student is confirmed: ${customer.firstName} ${customer.lastName}
+<br>
+Free passes: ${customer.freePasses}
+<br>
+Postal Code: ${customer.postalCode}
 </body>
 </html>
